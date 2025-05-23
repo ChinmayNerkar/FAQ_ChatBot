@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain-unstructured
+langchain-community
+langchain-core
+langchain-ollama
+sentence-transformers
+pydantic
+selenium
+webdriver-manager
+beautifulsoup4
+requests
